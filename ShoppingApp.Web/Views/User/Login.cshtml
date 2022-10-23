@@ -1,0 +1,36 @@
+﻿
+@{
+    ViewData["Title"] = "Login";
+}
+
+
+@{
+    ViewData["Title"] = "Login";
+}
+@model UserDTO
+<h1>Login</h1>
+<div>
+    <div>
+        <form asp-action="Login" method="get" asp-controller="User">
+            <div class="form-group">
+                <label asp-for="UserName"></label>
+                <input asp-for="UserName" class="form-control" />
+                <span asp-validation-for="UserName" class="text-danger"></span>
+
+            </div>
+            <div class="form-group">
+                <label asp-for="Password"></label>
+                <input asp-for="Password" class="form-control" />
+                <span asp-validation-for="Password" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Login" class="btn-primary" />
+
+            </div>
+
+        </form>
+
+    </div>
+
+</div>
+

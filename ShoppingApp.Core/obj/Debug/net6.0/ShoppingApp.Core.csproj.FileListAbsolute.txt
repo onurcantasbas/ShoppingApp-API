@@ -1,0 +1,12 @@
+C:\Users\Begy\source\repos\ShoppingApp\ShoppingApp.Core\bin\Debug\net6.0\ShoppingApp.Core.deps.json
+C:\Users\Begy\source\repos\ShoppingApp\ShoppingApp.Core\bin\Debug\net6.0\ShoppingApp.Core.dll
+C:\Users\Begy\source\repos\ShoppingApp\ShoppingApp.Core\bin\Debug\net6.0\ShoppingApp.Core.pdb
+C:\Users\Begy\source\repos\ShoppingApp\ShoppingApp.Core\obj\Debug\net6.0\ShoppingApp.Core.csproj.AssemblyReference.cache
+C:\Users\Begy\source\repos\ShoppingApp\ShoppingApp.Core\obj\Debug\net6.0\ShoppingApp.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Begy\source\repos\ShoppingApp\ShoppingApp.Core\obj\Debug\net6.0\ShoppingApp.Core.AssemblyInfoInputs.cache
+C:\Users\Begy\source\repos\ShoppingApp\ShoppingApp.Core\obj\Debug\net6.0\ShoppingApp.Core.AssemblyInfo.cs
+C:\Users\Begy\source\repos\ShoppingApp\ShoppingApp.Core\obj\Debug\net6.0\ShoppingApp.Core.csproj.CoreCompileInputs.cache
+C:\Users\Begy\source\repos\ShoppingApp\ShoppingApp.Core\obj\Debug\net6.0\ShoppingApp.Core.dll
+C:\Users\Begy\source\repos\ShoppingApp\ShoppingApp.Core\obj\Debug\net6.0\refint\ShoppingApp.Core.dll
+C:\Users\Begy\source\repos\ShoppingApp\ShoppingApp.Core\obj\Debug\net6.0\ShoppingApp.Core.pdb
+C:\Users\Begy\source\repos\ShoppingApp\ShoppingApp.Core\obj\Debug\net6.0\ref\ShoppingApp.Core.dll

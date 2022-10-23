@@ -1,0 +1,13 @@
+﻿
+@{
+    ViewData["Title"] = "UserDashBoard";
+}
+@model ISession
+< fieldset >  
+    < legend > User DashBoard < /legend>  
+  
+@if(Model.Get("UserName") != null)
+{<text>  
+        Welcome @Model.Get("UserName").ToString() </text>  
+} < /fieldset>
+
